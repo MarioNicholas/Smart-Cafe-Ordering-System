@@ -6,7 +6,7 @@
 <p align="center">Kelompok 01 - K01</p>
 
 <table>
-<tr><td>Mario Nicholas Reyhan - 18221057</td></tr>
+<tr><td>Mario Nicholas Reyhan - 18221061</td></tr>
 <tr><td>Nicolas Owen Halim - 18221095</td></tr>
 <tr><td>Ivan Leovandi - 18221129</td></tr>
 <tr><td>Raden Dizi Assyafadi Putra - 18221155</td></tr>
