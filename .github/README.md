@@ -103,6 +103,13 @@ Payload:
   "total": number
 }
 ```
+## Database
+
+Database prototipe ini menggunakan MongoDB yang dapat diakses dengan melakukan login ke Website MongoDB dengan akun ini.
+```text
+email: tubeslasti@gmail.com
+password: .SemogaLastiDapetA
+```
 
 ## LICENSE
 
