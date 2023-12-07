@@ -80,7 +80,7 @@ Website ini dapat diakses secara langsung melalui link berikut: [Smart Cafe Syst
 2. Setelah muncul tampilan halaman utama, silahkan pilih menu dan jumlah yang diinginkan
 ![Buy](/.github/images/Buy.png)
 3. Setelah memilih menu, silahkan akses cart untuk melihat pesanan yang telah dipilih
-![Cart](/.github/images/Cart.png)
+![Cart](/.github/images/cart.png)
 4. Setelah memilih pesanan, silahkan klik checkout untuk mengkonfirmasi pesanan.
 ![Confirmed](/.github/images/confirmed.png)
 
