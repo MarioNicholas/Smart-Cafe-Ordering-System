@@ -1,17 +1,6 @@
 <h1 align="center">
-  Final Milestone - Tugas Besar II3120 Layanan STI
+  Smart Cafe Ordering System
 </h1>
-
-<h4 align="center">Implementasi Prototipe Layanan PWA Smart-cafe.</h4>
-<p align="center">Kelompok 01 - K01</p>
-
-<table>
-<tr><td>Mario Nicholas Reyhan - 18221061</td></tr>
-<tr><td>Nicolas Owen Halim - 18221095</td></tr>
-<tr><td>Ivan Leovandi - 18221129</td></tr>
-<tr><td>Raden Dizi Assyafadi Putra - 18221155</td></tr>
-<tr><td>Haerun Nisak - 10023165</td></tr>
-</table>
 
 <p align="center">
   <a href="#about">Deskripsi</a> •
@@ -28,7 +17,7 @@
 <tr>
 <td>
   
-**Smart Cafe System** adalah sebuah prototipe sebagai implementasi dari [Layanan Pemesanan berbasis PWA](https://github.com/MarioNicholas/K01_Kelompok1_Deliverable4) untuk Smart-Cafe. Protitipe ini dibuat untuk memenuhi kebutuhan Tugas Besar II3120 Layanan Sistem dan Teknologi Informasi. Prototipe ini dibuat menggunakan NextJS dan MongoDB.
+**Smart Cafe Ordering System** adalah sebuah prototipe sebagai implementasi dari [Layanan Pemesanan berbasis PWA](https://github.com/MarioNicholas/K01_Kelompok1_Deliverable4) untuk Smart-Cafe. Protitipe ini dibuat untuk memenuhi kebutuhan Tugas Besar II3120 Layanan Sistem dan Teknologi Informasi. Prototipe ini dibuat menggunakan NextJS dan MongoDB.
 
 ![Landing](/.github/images/Landing.jpg)
 <p align="right">
